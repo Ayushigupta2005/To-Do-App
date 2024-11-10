@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="beige">#FFF7E9</color>
+    <color name="deep_brown">#3B2A2F</color>
+    <color name="sage_green">#E7F6E7</color>
+    <color name="charcoal">#404040</color>
+    <color name="vibrant">#34D399</color>
+    <color name="peach">#FF715B</color>
+    <color name="coral_pink">#FFABAB</color>
+    <color name="accessible_coral">#D95D67</color>
+    <color name="add">#800000</color>
+    <color name="accessible_coral_dark">#9B3D3D</color>
+    <color name="dark_primary">#1E1E2C</color>         <!-- Dark blue-gray for primary background -->
+    <color name="dark_secondary">#2A2A3A</color>       <!-- Slightly lighter for secondary elements -->
+    <color name="dark_text_primary">#FFFFFF</color>    <!-- Primary text color on dark background -->
+    <color name="dark_text_secondary">#B0B0B0</color>  <!-- Secondary text color for subtitles/hints -->
+    <color name="dark_button">#4E9F3D</color>          <!-- Accessible button color with contrast -->
+    <color name="dark_accent">#A3D9FF</color>          <!-- Accent color for highlights -->
+    <color name="dark_background">#121212</color>
+</resources>

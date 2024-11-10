@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorOnPrimary">@color/dark_text_primary</item>
+        <item name="colorSecondary">@color/dark_button</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="backgroundColor">@color/dark_background</item>
+    </style>
+
+    <style name="ButtonStyle"></style>
+</resources>

@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Light mode colors -->
+        <item name="colorPrimary">@color/peach</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Dark mode colors -->
+        <item name="colorPrimaryDark">@color/dark_primary</item>
+        <item name="colorSecondary">@color/dark_secondary</item>
+        <item name="colorOnPrimary" tools:ignore="DuplicateDefinition">@color/dark_text_primary</item>
+        <item name="colorOnSecondary">@color/dark_text_secondary</item>
+        <item name="colorAccent">@color/dark_accent</item>
+        <item name="backgroundColor">@color/dark_background</item>
+    </style>
+
+    <style name="ButtonStyle.Dark">
+        <item name="android:backgroundTint">@color/dark_button</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ButtonStyle"></style>
+</resources>
