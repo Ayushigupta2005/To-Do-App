@@ -41,8 +41,10 @@ Managing data within an activity
 ---
 
 📸 Screenshots
-<img src="https://github.com/user-attachments/assets/38cae961-2fbb-4180-9f50-f70c854d3d53" alt="Splash Screen Image" width="1080" height="1920">
-<img src="https://github.com/user-attachments/assets/ea3341db-8658-4b44-87b3-6d05a062397c" alt="To do list" width="400" height="300">
-<img src="https://github.com/user-attachments/assets/adeab754-5e4a-412b-a059-ccbd06d2ec35" alt="To do list" width="400" height="300">
+<p align = "center">
+<img src="https://github.com/user-attachments/assets/38cae961-2fbb-4180-9f50-f70c854d3d53" alt="Splash Screen Image" width="30%">
+<img src="https://github.com/user-attachments/assets/ea3341db-8658-4b44-87b3-6d05a062397c" alt="To do list" width="30%">
+<img src="https://github.com/user-attachments/assets/adeab754-5e4a-412b-a059-ccbd06d2ec35" alt="To do list" width="30%">
+</p>
 
 
