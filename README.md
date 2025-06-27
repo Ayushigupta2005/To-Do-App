@@ -41,11 +41,8 @@ Managing data within an activity
 ---
 
 📸 Screenshots
-	
-![WhatsApp Image 2025-06-27 at 23 58 45_5fa61af9](https://github.com/user-attachments/assets/38cae961-2fbb-4180-9f50-f70c854d3d53) 
-
-![WhatsApp Image 2025-06-27 at 23 58 45_65d13e07](https://github.com/user-attachments/assets/ea3341db-8658-4b44-87b3-6d05a062397c)
-
-![WhatsApp Image 2025-06-27 at 23 58 45_13452bb6](https://github.com/user-attachments/assets/adeab754-5e4a-412b-a059-ccbd06d2ec35)
+<img src="https://github.com/user-attachments/assets/38cae961-2fbb-4180-9f50-f70c854d3d53" alt="Splash Screen Image" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/ea3341db-8658-4b44-87b3-6d05a062397c" alt="To do list" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/adeab754-5e4a-412b-a059-ccbd06d2ec35" alt="To do list" width="400" height="300">
 
 
